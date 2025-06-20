@@ -1,0 +1,6 @@
+flask
+numpy
+joblib
+scikit-learn==1.5.1
+xgboost
+prometheus_flask_exporter
