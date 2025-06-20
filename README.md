@@ -13,6 +13,12 @@ This is a full-stack ML project to detect fraudulent credit card transactions us
 
 ---
 
+## Dataset Link
+
+```
+Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+```
+
 ## Model Performance
 
 | Model            | Precision | Recall | F1 Score | AUC   |
